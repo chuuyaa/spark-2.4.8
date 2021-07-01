@@ -1,0 +1,2 @@
+Spark 1 (git revision 468bab5bf4) built for Hadoop null object or invalid expression
+Build flags: -Pmesos -Pyarn -Pkubernetes
